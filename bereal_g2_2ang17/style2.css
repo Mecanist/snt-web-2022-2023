@@ -1,0 +1,67 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #d7fdff
+}
+
+h1 {
+  color: purple;
+  background-color: #f6d7ff
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+nav {
+  display: flex;
+  justify-content:center;
+  margin-top: 20px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+}
+
+li {
+  margin: 0 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: purple;
+}
+img {
+  transition: transform 0.3s;
+}
+.avatar {
+	height:400px;
+	width:200px;
+}
+.avatar2 {
+	height:300px;
+	width:300px;
+}
+.avatar3 {
+	height:300px;
+	width:450px;
+}
+.avatar4{ 
+height:300;
+width: 400;
+}
+.avatar5 {
+	height:100;
+	width:300;
+	}
+.avatar6 {
+	height:100;
+	width:250;
+}
+

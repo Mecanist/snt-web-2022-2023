@@ -1,0 +1,109 @@
+/* Pour toute la page: */
+html
+{
+    font-family: 'Trebuchet MS';
+   background-color: white; 
+   color: black;
+}
+
+/* Titre "Snapchat" et logo (banderole) */
+header
+{
+    background-color: gold;
+    color: black;
+	text-align: center;
+}
+
+/* Grosses parties (ligne) */
+h2
+{
+	border-bottom: 1px solid;
+}
+
+/* Sous parties (soulignage) */
+h3
+{
+	text-decoration: underline 1px solid;
+}
+
+/* Positionnement des deux sections "Création" */
+.imagesection
+{
+	text-align: center;
+	font-style: italic;
+	font-size: small;
+	float: left;
+	width : 200px;
+	height: 350px;
+}
+
+.textesection
+{
+	margin-left: 250px;
+	height: 350px;
+}
+
+/* Classes pour mettre 2 blocs cote à cote */
+.blocgauche
+{
+	float: left;
+	width: 50%;
+	border-right: 1px solid;
+}
+.blocdroite
+{
+	margin-left: 50%;
+}
+.blocseul
+{
+	width: 100%;
+	margin-left: 0px;
+}
+.souligne
+{
+	text-decoration: underline;
+}
+.centre
+{
+	text-align: center;
+}
+
+/* Style pour le bouton de retour en haut de page */
+#retour_haut
+{
+   position: fixed;
+   width: 50px;
+   height: 50px;
+   bottom: 50px;
+   right: 30px; 
+}
+#retour_haut img
+{
+   width: 50px;
+}
+
+/* Page cyberharcelement */
+.harcelement
+{
+	float: left;
+	width: 70%;
+	height: 300px;
+}
+
+.imageharcelement
+{
+	height: 300px;
+}
+
+
+.cyberharcelement
+{
+	height: 300px;
+}
+
+.imagecyberharcelement
+{
+	float:left;
+	width:30%;
+	height: 300px;
+}
