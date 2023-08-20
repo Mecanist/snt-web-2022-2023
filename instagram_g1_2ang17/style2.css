@@ -1,0 +1,29 @@
+h1
+{
+	font-size: 22 px;
+	color:white;
+	background:navy;
+	font-weight: bold;
+	text-align: center;
+	font-family: Arial;
+	font-style: italic;
+}
+h2
+{
+	font-family: Calibri;
+	font-size: 24 px;
+	font-style: italic;
+	text-decoration: underline;
+	color: black;
+}
+h3
+{
+	font-family: Calibri;
+	font-size: 22 px;
+	color: black	
+}
+h4
+{
+	text-align: center;
+	font-size: big;
+}
